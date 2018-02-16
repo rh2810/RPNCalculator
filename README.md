@@ -3,7 +3,7 @@ Authors: Michele Ambrose and Ryan Hurst
 
 Generates a calculator that can performs arithmetic operations in Reverse Polish Notation.
 
-An RPN calculator perform arithmetic from a stack, which consists of data entered by the user. The calculator pops the next two numbers from the top of the stack, and then performs operations based on user input and relative order of the values recently popped.
+An RPN calculator performs arithmetic from a stack, which consists of data entered by the user. The calculator pops the next two numbers from the top of the stack, and then performs operations based on user input and relative order of the values recently popped.
 
 For more info about RPN calculators, visit: http://hp15c.org/RPNHowTo.php
 
