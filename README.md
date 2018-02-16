@@ -25,3 +25,9 @@ Keypad:
 
 
 Examples:
+
+In: 3     stack: []
+
+In: ^     stack: [3.0]
+
+In: 
