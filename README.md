@@ -17,6 +17,11 @@ Keypad:
 
 -'+', '-', '*', '/': standard operations (add, subtract, multiply, divide)
 
--'pi': the 
+-'pi': the mathematical constant pi (3.1415926...)
+
+-'<': delete a character from the input
+
+-'^': enter the current value (onto the stack)
 
 
+Examples:
