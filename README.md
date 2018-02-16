@@ -26,8 +26,8 @@ For more info about RPN calculators, visit: http://hp15c.org/RPNHowTo.php
 
 **Examples:**
 
-In: 3     stack: []
+In: 3             stack: []
 
-In: ^     stack: [3.0]
+In: ^             stack: [3.0]
 
 In: 
