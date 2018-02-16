@@ -7,7 +7,7 @@ An RPN calculator perform arithmetic from a stack, which consists of data entere
 
 For more info about RPN calculators, visit: http://hp15c.org/RPNHowTo.php
 
-Keypad:
+**Keypad:**
 
 -'0-9': standard number pad
 
@@ -24,7 +24,7 @@ Keypad:
 -'^': enter the current value (onto the stack)
 
 
-Examples:
+**Examples:**
 
 In: 3     stack: []
 
