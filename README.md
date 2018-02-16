@@ -5,7 +5,7 @@ Generates a calculator that can performs arithmetic operations in Reverse Polish
 
 An RPN calculator perform arithmetic from a stack, which consists of data entered by the user. The calculator pops the next two numbers from the top of the stack, and then performs operations based on user input and relative order of the values recently popped.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; For more info about RPN calculators, visit: http://hp15c.org/RPNHowTo.php
+For more info about RPN calculators, visit: http://hp15c.org/RPNHowTo.php
 
 **Keypad:**
 
@@ -26,8 +26,8 @@ An RPN calculator perform arithmetic from a stack, which consists of data entere
 
 **Examples:**
 
-In: 3             stack: []
+In: 3 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stack: []
 
-In: ^             stack: [3.0]
+In: ^ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; stack: [3.0]
 
 In: 
