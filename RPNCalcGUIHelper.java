@@ -1,7 +1,5 @@
 package edu.vccs.mla2911.gui.lab;
 
-//import edu.brcc.maxfieldj.rpncalcmc.RPNCalc;
-
 /**
  * Does all the operations of the calculator in the GUI from RPNCalcGUI.
  * The man behind the curtain.
