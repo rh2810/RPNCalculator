@@ -1,6 +1,9 @@
 # RPNCalculator
 Authors: Michele Ambrose and Ryan Hurst
 
+All classes in this program must either run from the same package in a text editor
+or be compiled together as a JAR file: http://www.skylit.com/javamethods/faqs/createjar.html
+
 Generates a calculator that can performs arithmetic operations in Reverse Polish Notation.
 
 An RPN calculator performs arithmetic from a stack, which consists of data entered by the user. The calculator pops the next two numbers from the top of the stack, and then performs operations based on user input and relative order of the values recently popped.
